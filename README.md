@@ -1,6 +1,7 @@
 # Absurd Agents Debate Arena
 
-![Debate Arena](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
+![Debate Arena](https://github.com/user-attachments/assets/60097119-e41d-434d-9866-c1ce4043fc7c)
+
 
 ## 🌐 Overview
 
@@ -122,9 +123,7 @@ HOT Omni, which represents a user's meta balance on the NEAR blockchain, is inte
 - Verifiable randomness ensures fair debate outcomes
 - All transactions are recorded on the blockchain for transparency
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🤝
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
